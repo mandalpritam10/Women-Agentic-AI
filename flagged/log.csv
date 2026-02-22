@@ -1,0 +1,8 @@
+symptom_text,output,flag,username,timestamp
+"burning while peeing, lower tummy pain and slight fever since yesterday","Based on the provided symptoms and candidate diseases, I would pick UTI (Urinary Tract Infection) as the most likely disease. Here's my reasoning:
+
+Disease: UTI
+Explanation: Dysuria (painful urination), lower abdominal pain, and slight pyrexia are all common symptoms of a Urinary Tract Infection (UTI). The presence of these symptoms suggests that the infection is primarily affecting the lower urinary tract, which is consistent with typical presentations of cystitis or urethritis. Additionally, UTIs are relatively common in women, particularly those who have experienced sexual intercourse or have other risk factors such as diabetes, kidney stones, or anatomical abnormalities.
+Confidence: 85%
+
+Note that this confidence level is based on the presence of specific symptoms and the candidate diseases provided. A more comprehensive evaluation would involve additional information, such as medical history, physical examination findings, laboratory test results (e.g., urinalysis, culture), and potentially imaging studies (e.g., ultrasound).",,,2026-02-22 22:52:03.204396
